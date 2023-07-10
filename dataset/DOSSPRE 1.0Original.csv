@@ -5,7 +5,7 @@ Project ID,Class,Requirement
 1,Functionality,'The system shall inspect SSL certificate '
 1,Functionality,'The system shall generate a report of the detected and analyzed vulnerabilities'
 1,Usability,'The system shall have a friendly user interface for ease-of-use purposes and for a better user experience '
-1,Usability,'The system shall have a friendly interface design to enhance user’s experience '
+1,Usability,'The system shall have a friendly interface design to enhance userï¿½s experience '
 1,Functionality,'The system shall allow parameter inputs to be supplied using different user-friendly input components that are based on Graphical User Interface (GUI) concepts '
 1,Functionality,'The system reports shall be delivered in industry-standard format '
 1,Functionality,'The system shall be able to carefully diagnose the real vulnerabilities when they exist based on conducting formula-based experiments. '
@@ -15,7 +15,7 @@ Project ID,Class,Requirement
 2,Functionality,'The system shall inspect SSL certificate '
 2,Functionality,'The system shall generate a report of the detected and analyzed vulnerabilities '
 2,Usability,'The system shall have a friendly user interface for ease-of-use purposes and for a better user experience '
-2,Usability,'The system shall have a friendly interface design to enhance user’s experience '
+2,Usability,'The system shall have a friendly interface design to enhance userï¿½s experience '
 2,Functionality,'The system shall allow parameter inputs to be supplied using different user-friendly input components that are based on Graphical User Interface (GUI) concepts '
 2,Functionality,'The system reports shall be delivered in industry-standard format '
 2,Functionality,'The system shall be able to carefully diagnose the real vulnerabilities when they exist based on conducting formula-based experiments. '
@@ -40,7 +40,7 @@ Project ID,Class,Requirement
 4,Auditing,'The system shall generate a report outlining what effect the malware has done during execution in an isolated environment. '
 4,IntrusionD,'The system shall show a report containing detailed results found in files submitted for analysis and will clearly indicate which file is malicious and which one is benign. '
 4,IntrusionD,'The system shall focus on known and unknown malware families with the aim of unearthing newly developed malware which are potentially harmful to the Android applications. '
-4,Availability,"'The application will be available as a standalone application which will be installed on users’ virtual machines and thus will not be affected by network availability, '"
+4,Availability,"'The application will be available as a standalone application which will be installed on usersï¿½ virtual machines and thus will not be affected by network availability, '"
 4,Immunity,'The system shall be abstracted from the user and the application has no user interaction hence the chances of users breaking it are very limited'
 4,Usability,"'The system shall be designed in such a way that the final product will be user-friendly and very efficient, '"
 4,Portability,"'The system shall be easily transferred to and installed on another platform, '"
@@ -58,12 +58,12 @@ Project ID,Class,Requirement
 6,Functionality,'The system shall also provide a section for verification in the sense that if an image is said to have a watermark it should be able to detect and display the watermark. '
 6,Functionality,'The system shall allow an author who desires to protect his/her work from unauthorized use to upload an image with his/her visible digital watermark along with the registration number '
 6,Functionality,'The system shall allow the administrator to embed the invisible digital watermark whenever an author submits his /her piece of art '
-6,Integrity,'The system shall allow verification of watermarked image which is submitted twice or more by different authors to protect the owner’s copyrights '
+6,Integrity,'The system shall allow verification of watermarked image which is submitted twice or more by different authors to protect the ownerï¿½s copyrights '
 6,Authentication,'The system shall apply the principle of authentication by notifying if there is a watermark on the image or not '
 6,Portability,'The digital watermark system is compatible with all the operating systems'
 7,Functionality,'The system shall be able to take face pictures of a suspect'
 7,Functionality,'The system shall be able to save taken pictures into the database'
-7,Functionality,'The system shall optionally allow the user to destroy the suspect’s details files or save them for future records in a secure database '
+7,Functionality,'The system shall optionally allow the user to destroy the suspectï¿½s details files or save them for future records in a secure database '
 7,Functionality,'The system shall be able to match current picture with database pictures'
 7,Functionality,'The system shall be able to retrieve criminal records from the database based on pictures taken '
 7,Functionality,'The system shall utilize a centralized database '
@@ -93,7 +93,7 @@ Project ID,Class,Requirement
 8,Functionality,'The system shall allow the buzzer to ring if 3 consecutive wrong attempts are made. '
 8,Functionality,'The system shall allow GSM to send an SMS alert message when 3 consecutive wrong attempts are entered'
 9,Performance,'The system shall allow a short time to respond to a command to encrypt and decrypt data.'
-9,Performance,'The system shall allow high throughput – high rate of processing the work and the services of the user.'
+9,Performance,'The system shall allow high throughput ï¿½ high rate of processing the work and the services of the user.'
 9,Availability,'The system shall allow high availability of the application whenever the user needs it so a recovery module will be set in case of loss of the mobile phone. '
 9,Performance,'The system shall allow short data transmission between the computer and the smart phone over Bluetooth.'
 9,Performance,'The system shall allow the Bluetooth data lock systems to produce the same repeated results'
@@ -114,11 +114,11 @@ Project ID,Class,Requirement
 10,Functionality,'The system shall be able to access contacts list in child device '
 10,Functionality,'The system shall be able to disable/Enable applications list with keyword in SMS '
 10,Functionality,'The system shall be able to keep reminders about a child '
-10,Immunity,'The system shall be able to filter harmful websites against URLs’ of known harmful websites. Access to known harmful websites shall not be permitted.'
-10,Functionality,"'The system-+ shall be able to collect and analyse data that the child is typing and if it captures certain keywords or a continuous sequence of expletives, it should send an alert through text to the parent’s smartphone. '"
+10,Immunity,'The system shall be able to filter harmful websites against URLsï¿½ of known harmful websites. Access to known harmful websites shall not be permitted.'
+10,Functionality,"'The system-+ shall be able to collect and analyse data that the child is typing and if it captures certain keywords or a continuous sequence of expletives, it should send an alert through text to the parentï¿½s smartphone. '"
 10,Functionality,'The system shall prevent any applications from being installed or uninstalled '
-10,Auditing,'The system shall be able to generate and send periodic logs the parent’s smartphone '
-10,Availability,'The system shall be up and running all the time since its checking or monitoring the child’s behavior and prevent any media from being sent or received using Bluetooth '
+10,Auditing,'The system shall be able to generate and send periodic logs the parentï¿½s smartphone '
+10,Availability,'The system shall be up and running all the time since its checking or monitoring the childï¿½s behavior and prevent any media from being sent or received using Bluetooth '
 10,Functionality,'The system shall allow a user who has a functional account with the Twitter platform to create an application to access tokens. '
 10,Functionality,'The system shall be able to connect to Twitter Streaming API. '
 10,Performance,'The system shall be able to extract raw data from Twitter in real time. '
@@ -157,18 +157,18 @@ Project ID,Class,Requirement
 13,Performance,'The system shall have a moderate to high performance owing to limited resource use by using programmer initiated garbage collection for cases where the compiler might produce inefficient code. '
 13,Performance,'The system shall only use multithreading sparingly in order to increase performance system without slowing down lower end hardware. '
 13,Usability,'The system shall be user friendly with a very small learning curve. '
-13,Usability,'The system’s intuitive design of the interface will make operating the software easy and quick. '
+13,Usability,'The systemï¿½s intuitive design of the interface will make operating the software easy and quick. '
 13,Usability,'The system shall provide a detailed manual of use in case the learning curve proves too steep for some users. '
 13,Portability,'The system shall be deployable across any system with the correct version of python and its corresponding dependent nonstandard libraries. But easier if packaged using Fladesk '
 13,Maintainability,'The system shall be maintainable by enforcing modularity which makes the system components loosely coupled such that they can be modified independently and then reintegrated into the system. '
 13,Maintainability,'The system shall maintain a strict documentation including comments in the source code so as to make the code easy to modify and debugging.  '
 14,IntrusionD,"'The system shall allow Network traffic monitoring in real-time by capturing incoming and outgoing TCP, HTTP(S) and TLS web traffic, in order to correlate it with configured cryptojacking blacklist. '"
 14,IntrusionD,"'The system shall analyse TCP, HTTP(S) and TLS web traffic, to detect network connections to known cryptocurrency mining pools or service providers such as BTC.com and coinhive.com ''"
-14,Functionality,"'The system shall create a snapshot of the user’s usual average CPU utilization percentage, in order to subsequently be used as a basis for comparison, enabling the detection of the tremendous CPU load increase caused by cryptojacking.'"
-14,IntrusionD,"The system shall monitor CPU usage to detect spikes in CPU usage caused by cryptojacking by constantly reading the computer’s current CPU utilization percentage and compare it to the CPU usage baseline, and detect the extreme spikes or deviations from the usual CPU usage baseline due to cryptojacking activity. "
+14,Functionality,"'The system shall create a snapshot of the userï¿½s usual average CPU utilization percentage, in order to subsequently be used as a basis for comparison, enabling the detection of the tremendous CPU load increase caused by cryptojacking.'"
+14,IntrusionD,"The system shall monitor CPU usage to detect spikes in CPU usage caused by cryptojacking by constantly reading the computerï¿½s current CPU utilization percentage and compare it to the CPU usage baseline, and detect the extreme spikes or deviations from the usual CPU usage baseline due to cryptojacking activity. "
 14,Functionality,'The system shall produce a pop-up notification reporting the detected cryptojacking activity. '
 14,Functionality,'The system shall automatically send email alerts of detected cryptojacking activity.  '
-14,Authentication,"'The system shall allow the user to set an email-change password, so that it will subsequently be requested when attempting to change the set user’s email address.  '"
+14,Authentication,"'The system shall allow the user to set an email-change password, so that it will subsequently be requested when attempting to change the set userï¿½s email address.  '"
 14,Immunity,'The system shall allow the cryptojacking application to be terminated unless the user explicitly selects to ignore the cryptojacking application. '
 14,Auditing,"'The system shall enable the detected cryptojacking domain or application to be logged, along with the date and time of detection. '"
 14,Performance,"'The system should be able to detect cryptojacking quickly, in a timely-manner. '"
@@ -178,14 +178,14 @@ Project ID,Class,Requirement
 14,Usability,'It should be easy to learn and understand how to effectively use the system '
 14,IntrusionD,'The system should be reliable in detecting known cryptojacking malware activity. '
 14,Portability,'The system should be compatible with computer systems running the Microsoft Windows operating system '
-14,Confidentiality,"'The system should preserve the user’s privacy by not publishing the monitored network traffic, and not exposing the user’s registered email address.'"
+14,Confidentiality,"'The system should preserve the userï¿½s privacy by not publishing the monitored network traffic, and not exposing the userï¿½s registered email address.'"
 14,Authorisation,'The system should ensure only the authorized user is able to change the registered email address for receiving cryptojacking alerts. '
 14,Functionality,' The system should offer password strength measuring capability to suggest password security improvements to the user. '
 14,Confidentiality,'The system should not violate laws by not infringing the privacy of sensitive user information and intellectual property rights. '
 15,Authentication,'The system shall use a two-way authentication system by combining keyboard activities and mouse movement biometrics to improve security.'
-15,Functionality,'The system shall capture user’s keyboard typing pattern and mouse movement pattern during registration. '
+15,Functionality,'The system shall capture userï¿½s keyboard typing pattern and mouse movement pattern during registration. '
 15,Functionality,'The system shall enable unique features to be extracted using datasets. '
-15,Functionality,'The system shall learn the user’s unique pattern using Naïve Bayes algorithms and store the template in the database. '
+15,Functionality,'The system shall learn the userï¿½s unique pattern using Naï¿½ve Bayes algorithms and store the template in the database. '
 15,Authentication,The system shall allow that the features be extracted when the user logs in and a similarity match done to check the authenticity of the user and if a match is successful the user will be granted access and access will be denied in the event of a mismatch. 
 15,Performance,"'The system shall allow that the performance of the application in terms of throughput, response time be checked at different intervals after deployment by the customer support team.  '"
 15,Availability,'The system shall allow for operation at all times.  '
@@ -209,16 +209,16 @@ Project ID,Class,Requirement
 16,Portability,'The system shall be portable and easy to relocate from one computer environment to another. '
 17,Functionality,'The system shall allow entering the name of the individual whose details and PII are to be searched. '
 17,Functionality,'The system shall allow the web application access to the social sites public profiles  '
-17,Functionality,'The system shall allow Selenium scraping an individual’s personally identifiable information. '
+17,Functionality,'The system shall allow Selenium scraping an individualï¿½s personally identifiable information. '
 17,Functionality,'The system shall allow extraction of the personally identifiable information. '
 17,Functionality,'The system shall display the personally identifiable information on a graphical user interface. '
 17,Performance,"'The system shall be designed to have a short response time to opening the web application, requesting user details and uploading the personally identifiable information onto a profile.  '"
-17,Performance,"'The system shall have a high rate of processing of the work and the services of the user. This means if a person’s details are requested, the request should be processed and results displayed without much delay.  '"
+17,Performance,"'The system shall have a high rate of processing of the work and the services of the user. This means if a personï¿½s details are requested, the request should be processed and results displayed without much delay.  '"
 17,Availability,"'The system shall provide access whenever the user needs to check publicly available records of an individual, they should be able to do so since social media details are always available '"
 17,Performance,'The system shall offer a short time for data transmission between social network site and Selenium. '
 17,Usability,'The system shall have a high usability through an easy to use GUI in which a user will only enter a search query since Selenium will be communicating with the social media site. '
 17,Usability,'The system shall have a small learning curve for users to get accustomed to the application. '
-17,Auditing,'The system shall make it easy to trace an individual’s activities after a crime has taken place.'
+17,Auditing,'The system shall make it easy to trace an individualï¿½s activities after a crime has taken place.'
 17,Auditing,"'The system shall access personally, identifiable information to allow investigators to be able to reconstruct a criminal event after it happens, thereby securing the evidence. '"
 17,Functionality,'The system shall access a profile from which the PII is scraped and displayed on the graphical user interface. '
 18,Functionality,'The system should be able to generate USSD codes for the transaction. '
@@ -235,11 +235,11 @@ Project ID,Class,Requirement
 19,Confidentiality,'The system shall be accessible to users via HTTPS web portal '
 19,Functionality,'System should allow users to download reports. '
 19,Availability,'The system shall be able to function as desired all the time.  '
-19,Availability,'The proposed system’ logistics are easily accessed hence its availability is guaranteed when and as required. '
+19,Availability,'The proposed systemï¿½ logistics are easily accessed hence its availability is guaranteed when and as required. '
 19,Integrity,'The information entered is only altered by the user upon authentication being done to verify. '
 19,Usability,'The manner in which the system functions should be easy and direct for the users of the system. '
-19,Performance,'The system should have a very fast response time to user’s actions.'
-19,Integrity,'Permissions to access the system data should only be altered by the system’s data administrator.'
+19,Performance,'The system should have a very fast response time to userï¿½s actions.'
+19,Integrity,'Permissions to access the system data should only be altered by the systemï¿½s data administrator.'
 19,Authentication,'The system should time out after a set period of inactivity'
 19,Confidentiality,'The system should be able to enforce privacy of data by encryption of data during transmission. '
 19,Performance,'The proposed system can perform well in the web environments and also with huge files.  '
@@ -247,17 +247,17 @@ Project ID,Class,Requirement
 19,Usability,'The system shall be easy to use given that the interface actions and elements are to be consistent '
 19,Usability,'The system should ensure that error messages are communicate to the user or admin. '
 19,Usability,'The system shall ensure that actions which cannot be undone are to request confirmation before they are effected. '
-19,Integrity,'The proposed system shall provide access permissions for application data may only be changed by the system’s data administrator and data stored in the database to be hashed. '
+19,Integrity,'The proposed system shall provide access permissions for application data may only be changed by the systemï¿½s data administrator and data stored in the database to be hashed. '
 19,Confidentiality,'The system shall ensure encryption of data during transmission. '
 19,Authentication,'The system shall enforce security through the use of password protected user accounts '
 19,Usability,'The system shall ensure that the way the interface operates should not be vague but should be designed so that users can easily run tasks '
-19,Performance,'The system shall ensure that the interface moves swiftly in pace with user’s mouse clicking and having where possible. '
+19,Performance,'The system shall ensure that the interface moves swiftly in pace with userï¿½s mouse clicking and having where possible. '
 19,Usability,'The system shall ensure that the interface is user-friendly to avoid human errors credited to poor user interface quality. '
 20,Identification,'The system shall allow users to enter their usernames and passwords.  '
 20,Confidentiality,'The system shall ensure that the login password is stored in encrypted format. '
 20,Authentication,"'The system shall be able to detect whether the input credentials are authentic, then accept or else reject if the credentials are incorrect. '"
 20,Authorisation,'The system shall allow the user to be directed to the options page or back to the login page for retrial. '
-20,Authentication,'This system provides functionality of verifying user’ login credentials against the ones stored in the system.'
+20,Authentication,'This system provides functionality of verifying userï¿½ login credentials against the ones stored in the system.'
 20,Functionality,'System shall allow user input of Licence number/National I.D Number/Registration Number.'
 20,Authorisation,"'The system shall be able to determine whether the login credentials are valid or not, and search for matching results of the particular licence owner, or vehicle information. '"
 20,Authentication,"'The system shall ensure that the user logs into the system if credentials are valid, otherwise it directs the user back to the login page, the user should input another licence number, or vehicle registration number. '"
@@ -272,7 +272,7 @@ Project ID,Class,Requirement
 20,Confidentiality,'The system shall provide storage of all important information in a secure database '
 20,Authorisation,'The system shall provide access to sensitive information only to the privileged  user '
 20,Functionality,'The system shall have the ability of scanning imagines of vehicle registration numbers and undergo pattern recognition for database matching'
-20,Identification,"'The system shall display the licence owner’s profile, and the vehicle information'"
+20,Identification,"'The system shall display the licence ownerï¿½s profile, and the vehicle information'"
 20,Maintainability,"'The system should be easy to maintain such that the modules should easily interact effectively and in case of failure, a re-initialization of the program is recommended. '"
 20,Portability,'The system should be very portable due to the software application which will be installed on a mobile device. '
 20,Performance,'The system software shall be based on web and has to be run from a web server that interacts with the software installed in the mobile device'
@@ -282,7 +282,7 @@ Project ID,Class,Requirement
 20,Confidentiality,'The system shall automatically store credential information in a central database '
 20,Authentication,'The system shall prompt for a password to log in to access the services '
 20,Confidentiality,'The system shall use a secure path of sending all the useful credentials to the platform '
-20,Confidentiality,'The system shall never display a user’s password.  It shall always be echoed with special characters representing typed characters. '
+20,Confidentiality,'The system shall never display a userï¿½s password.  It shall always be echoed with special characters representing typed characters. '
 20,Portability,'The user interface for the software shall be compatible to any android mobile device by which the user can access to the system. '
 21,Functionality,'The system should be able to capture windows log files independent from the Window Operating System '
 21,Integrity,'The system should use hmac to maintain integrity of the log files and detect when file has been modified using the technology '
@@ -294,8 +294,8 @@ Project ID,Class,Requirement
 21,Auditing,'The system shall provide availability of the audit report to users '
 21,Performance,'The system shall offer a short data transmission time between the target machine and big server '
 21,Usability,'The system shall provide a user-friendly interface that can be used by auditors without any technical challenges '
-21,Usability,'The system’s interface will include a clear and easy to interpret dashboard that has all the information needed about the securely captured logs. '
-21,Auditing,'The system shall allow log capture to be a background process making the auditor’s job much easier. '
+21,Usability,'The systemï¿½s interface will include a clear and easy to interpret dashboard that has all the information needed about the securely captured logs. '
+21,Auditing,'The system shall allow log capture to be a background process making the auditorï¿½s job much easier. '
 21,Integrity,'The system uses HMAC to maintain integrity of log files. '
 21,Confidentiality,'The system through pgp will incorporate both symmetric key and public key cryptography to ensure confidentiality of the log files during transmission. '
 21,Authentication,'The system shall allow users to have their own user specific key that is generated by the machine and has been added to the list of keys for the MAC generation process  '
@@ -338,7 +338,7 @@ Project ID,Class,Requirement
 24,Performance,'The system should be able to carry out each task requested by the user as quickly as possible'
 24,Maintainability,'The system should be developed with future upgrades and additional functionality being added to a later date '
 24,Maintainability,'The system should be able to provide data for the current maximum number of tags presently two thousand for a period of thirty days in whatever format the user decides'
-24,Performance,'The system should operate with the minimum adequate resource levels to ensure that it performs at a level acceptable to the user’'
+24,Performance,'The system should operate with the minimum adequate resource levels to ensure that it performs at a level acceptable to the userï¿½'
 24,Usability,'The system shall adhere to HCI standards. '
 25,Functionality,'The system shall allow every type of file to be entered for analysis'
 25,Functionality,'The system shall display interfaces describing operations performed during processes '
@@ -358,7 +358,7 @@ Project ID,Class,Requirement
 26,Functionality,'The system shall allow easy storage retrieval and manipulation of data '
 26,Usability,'The system offers an easy to understand interface.  Henceforth people of different age groups can use the system.  Pictures and simple choice of words are used in the system. '
 26,Performance,'The system offers quick retrieval of information '
-26,Usability,'Technical constraints – system should be easy to use for users as we may not see them but they will use the system without training. '
+26,Usability,'Technical constraints ï¿½ system should be easy to use for users as we may not see them but they will use the system without training. '
 26,Survivability,"'The system survives under its boundaries, which also sets limits to its operations, and the limits make up the restrictions. '"
 26,Performance,"'The system shall provide reliable performance in terms of throughput, response time. '"
 26,Usability,"'The system must provide services that are user friendly, reliable and flexible  '"
@@ -374,7 +374,7 @@ Project ID,Class,Requirement
 27,Functionality,'The system shall support at least 200 concurrently connected users. '
 28,Functionality,'The system should maintain basic patient information and permissions on a central server. '
 28,Functionality,"'The system shall allow new accounts for patients, medical centres and health practitioners to be created. '"
-28,Functionality,'The system capture and store users’ fingerprint template at the initial signing in. '
+28,Functionality,'The system capture and store usersï¿½ fingerprint template at the initial signing in. '
 28,Authentication,'The system should be able to match fingerprint at login. '
 28,Functionality,'The system should allow users to store critical information such as allergies and conditions on a central server. '
 28,Authorisation,'The system should allow certified medical facilities to access critical patient information as needed. '
@@ -387,7 +387,7 @@ Project ID,Class,Requirement
 28,Confidentiality,"'The system shall enforce encryption on all files, communication channels and backups. '"
 28,Authorisation,'The system shall allow for access levels to be implemented on patient information. '
 28,Auditing,'The system shall provide audit trails when required. '
-29,IntrusionD,'The system should be able to sniff the traffic to and from the network in real time’. '
+29,IntrusionD,'The system should be able to sniff the traffic to and from the network in real timeï¿½. '
 29,Detection,"'The system should be able to analyze the network traffic and detects intrusion, attacks and threats to the network.'"
 29,Performance,'The system should be able to warn the network officers about the possible occurrence of an intrusion attack and provides information regarding that attack. '
 29,Immunity,'The system should be able to block traffic to and from the network that is identified to be potentially malicious.'
@@ -407,7 +407,7 @@ Project ID,Class,Requirement
 29,Authentication,'The system shall have a log in screen to allow the network administrator to log into the system'
 29,Functionality,'The system shall have a working environment which is the main screen which will allow the user to monitor the network. '
 29,IntrusionD,'The system will show the alert messages in case an anomaly has been detected and it will also show a panel of logs of the anomaly detected.  '
-29,Usability,'The system’s main screen will also contain tabs for HELP and Static Analysis of the network. '
+29,Usability,'The systemï¿½s main screen will also contain tabs for HELP and Static Analysis of the network. '
 30,Authentication,'The system shall have log in and logout capabilities which can be seen as the line of security which most systems should possess for authentication and accountability purposes. '
 30,Functionality,'The system shall have imaging ability so as to make a copy of the information contained on the mobile device which will be used during the forensics process as the test data source '
 30,Functionality,'The system shall have extraction modules that will be able to take out information from the image that has been created '
@@ -432,7 +432,7 @@ Project ID,Class,Requirement
 31,Portability,'The system can be reliably used on any device that meets the specified hardware and software requirements. '
 31,Maintainability,'The system shall be able to handle a growing amount of work and also to be enlarged in order to accommodate that growth.  '
 31,Functionality,"'The system shall enable web data mining from Twitter, Twitter API provides different levels of accessing data through its Twitter Data Grants program.'"
-31,Availability,'The system’s logistics are usually accessed hence its availability is guaranteed when and as required. '
+31,Availability,'The systemï¿½s logistics are usually accessed hence its availability is guaranteed when and as required. '
 31,Portability,'The system is compatible with all operating systems. '
 31,Immunity,'The system database storing keywords will be secured against SQL injection attacks to reduce false positives. '
 32,Functionality,'The system shall allow a member to spontaneously form a group of n signers using group public keys which associate the group members '
@@ -507,7 +507,7 @@ Project ID,Class,Requirement
 37,Functionality,'System should utilize a centralized database '
 37,Functionality,'The system should be able to allow the user to swipe his or her tag/card on the RFID reader and check if its valid or not '
 37,Authentication,'The system should be able to match current faceprint with the faceprints in database '
-37,Authentication,'The system should be able to match RFID card/tag id with the user’s face/person id to make for access to be granted '
+37,Authentication,'The system should be able to match RFID card/tag id with the userï¿½s face/person id to make for access to be granted '
 37,Authentication,'The system should be able to reject access to the person who presents the tag that belongs to someone else in high probability '
 37,Performance,"'The system shall provide a high speed of searching, comparing and matching the captured image with the one in the data base as determined by the algorithm used. '"
 37,Usability,'A system should be designed having the psychology and physiology of the users in min. '
@@ -597,7 +597,7 @@ Project ID,Class,Requirement
 42,Authentication,' The system shall have an optional email field for recovery in case one forgets password the reset link will be sent to that email with instructions '
 42,Authentication,'The system login page is for already existing users where they provide their unique username and password for verification and once the details are verified they are redirected to mailbox. '
 42,Functionality,'The system mailbox is responsible for displaying the emails of the logged in user as well as all the spam emails and it will have a dashboard to navigate through the emails. '
-43,Functionality,"'The system shall provide supervisors with ad hoc reports for decision making,’'"
+43,Functionality,"'The system shall provide supervisors with ad hoc reports for decision making,ï¿½'"
 43,Authorisation,'The system shall provide administrator with security to data to make sure that unauthorized users do not access the information. '
 43,Survivability,'The system shall provide all the internal users a backup of the operational and transactional data. '
 43,Performance,'The system shall provide users with a system that is error free and efficient in capturing and retrieving information. '
@@ -608,7 +608,7 @@ Project ID,Class,Requirement
 44,Authentication,'Each user is to be configured with a unique User Name and a password that can be changed when it is necessary.  '
 44,Authorisation,'The system super administrator should be able to grant access privilege to users and restrict access of information and data users can view or modify at any given time.  '
 44,Integrity,'The system should have the ability to validate entered data hence reducing redundancy and duplication in the database. '
-44,Functionality,'The system should use report –generating modules to produce reports that can be conveniently used by management in decision making. '
+44,Functionality,'The system should use report ï¿½generating modules to produce reports that can be conveniently used by management in decision making. '
 44,Usability,'The system should have a user-friendly interface which is easy to use and accommodate all types of impairments such as visual impairments. '
 44,Usability,'The system should incorporate easier search mechanism that can assist users in retrieving and searching the required information. '
 44,Usability,'The system should reduce the workload and the amount of information to be entered through creating automatic updates between related tables and queries in the database. '
@@ -637,7 +637,7 @@ Project ID,Class,Requirement
 46,Authentication,'The system shall allow a lookup of registered users if requested by the authentication server. '
 46,Functionality,'The system shall allow a user to search and make a selection of nearby devices for handshake initiation. '
 46,Functionality,'The system shall allow a user to change the temporary PIN received from the system. '
-47,Maintainability,"'The system will stand in-between the client and the server, however, it is associated within the server’s architecture. '"
+47,Maintainability,"'The system will stand in-between the client and the server, however, it is associated within the serverï¿½s architecture. '"
 47,Functionality,'The system shall allow traffic data in the form of HTTP requests/packets are sent back and forth from client to server during normal service provision. '
 47,IntrusionD,"'The system functions as an IDS/IPD and aids in relieving traffic targeting the server, if a distributed DOS attack occurs and the server is flooded with the requests.'"
 47,Performance,'The performance of the system will be measured as the amount of work accomplished by the system and the manner in which the system will function. '
@@ -665,12 +665,12 @@ Project ID,Class,Requirement
 48,Performance,"'The system shall tested in order to monitor its behaviour from accuracy, performance, false positives and false negatives.  '"
 48,Usability,'The system should have a friendly user interface for ease of use purposes and for a better user experience. '
 48,Portability,'The contents of the proposed project should be implemented using Python programming language. '
-48,Usability,'The components and the functionalities of the project are associated with a friendly interface design to enhance user’s experience.'
+48,Usability,'The components and the functionalities of the project are associated with a friendly interface design to enhance userï¿½s experience.'
 48,Usability,'Parameter inputs are supplied using different user friendly input components that ate based on Graphical User Interface (GUI) concepts. '
 48,Portability,'Reports should be delivered in industry-standard format. '
 49,Functionality,'The system downloader shall allow downloading of contents from the server (music store). '
 49,Functionality,'The system downloader shall allow trimming of each song into small parts. '
-49,Confidentiality,'The system player shall be responsible for hashing the trimmed parts’ names. '
+49,Confidentiality,'The system player shall be responsible for hashing the trimmed partsï¿½ names. '
 49,Functionality,'The system player fills the look-up table with required data. '
 49,Functionality,'The system player locates the hidden folder. '
 49,Functionality,'The system player shall be sends contents into the hidden folder. '
@@ -683,7 +683,7 @@ Project ID,Class,Requirement
 49,Usability,'The system shall ensure that most of its operations will not be user-oriented but will be in the background such that only the basic operations are required to be known by the user such as how to purchase a song and how to play a song '
 49,Maintainability,"'The system will be divided into modules i.e downloader, trimmer, player to enhance the maintainability of the system and its troubleshooting '"
 49,Performance,'The system shall be able to accomplish that which it was designed for with no glitches. '
-49,Immunity,'The system’s ability to produce a trimmed output will deprive an attacker (pirate) access to a single complete song file from any point onwards.  '
+49,Immunity,'The systemï¿½s ability to produce a trimmed output will deprive an attacker (pirate) access to a single complete song file from any point onwards.  '
 49,Confidentiality,"'The player will hide the trimmed files from any direct contact with user or attacker, thereby reliably depriving any illegal sharing of files. '"
 50,Functionality,'The system shall allow a user to create an account. '
 50,Functionality,'The system shall allow a user to login. '
@@ -694,7 +694,7 @@ Project ID,Class,Requirement
 51,Functionality,'The system shall perform analysis of network traffic payloads across the organization network '
 51,IntrusionD,'The system shall analyse and record suspicious packets signatures and detects an anomaly if the following packets data matches the recorded threat related signatures. '
 51,IntrusionD,'The system shall use honeypot which records and analyses packets flowing through the network.  A honeypot is a system decoy which is used to make the attacker believe that he/she is attacking the intended system.  '
-51,Performance,'The system shall ensure that the honeypot records the attacker’s activities and warns the system administrators in the event of a threat to the system being protected. '
+51,Performance,'The system shall ensure that the honeypot records the attackerï¿½s activities and warns the system administrators in the event of a threat to the system being protected. '
 52,Functionality,'The system shall enable creation and editing of user details. '
 52,Functionality,'The system shall enable patient management.'
 52,Authentication,'The system will ensure user validation will be done during login to insure that the user is valid and that the user only has access to his or her permission data.  '
@@ -766,7 +766,7 @@ Project ID,Class,Requirement
 57,Functionality,'The system shall be able to detect motion within the camera feed and capture and image where motion is detected. '
 57,Functionality,'The system shall be able to detect faces in the captured image to see there are human faces within the image. '
 57,Functionality,'The system shall be able to recognize the faces detected with the image. '
-57,Functionality,'The system shall be able to send an SMS and an Email to security when the detected face is not in the system’s database. '
+57,Functionality,'The system shall be able to send an SMS and an Email to security when the detected face is not in the systemï¿½s database. '
 57,Performance,'The system ISAAS will have scalable speed to meet the response time and performance targets and it should be able to serve detection concurrently without any delay or unrealistic waiting time for a response. '
 57,Performance,'The system should be efficient to use and it takes less time to accomplish a particular task '
 57,Usability,'The system will ensure users have a good experience of using the system as well as their ability to quickly navigate the self explanatory design of the system. '
@@ -800,7 +800,7 @@ Project ID,Class,Requirement
 58,Confidentiality,"'The system enhances security through the use of more secure and efficient enciphering algorithms, that is Advanced encryption standard with a 256-bit key and Elliptic curve cryptography.  '"
 58,Immunity,"'The system shall implement a combination of cryptographic algorithms that are secure and have proven to be unbreakable by the current technologies, hence using these algorithms collectively strengthens the security of the system. '"
 58,Authentication,'The proposed system is meant to use a two-factor user authentication system which ensures that only the registered and legitimate user is able to access the system and upload or view the data.  '
-58,Authentication,"'The system shall ensure that once the account holder has provided a correct login password,they will receive a OTP or code sent via the email or the data owner’s mobile phone.'"
+58,Authentication,"'The system shall ensure that once the account holder has provided a correct login password,they will receive a OTP or code sent via the email or the data ownerï¿½s mobile phone.'"
 58,Integrity,'The system security shall add an extra layer of defense making it difficult for an adversary to successfully gain unauthorized access to the system and compromise the integrity of the stored data. '
 58,Auditing,'The system has got an audit or logging mechanism which enables the user to check and view if there were other malicious activities that have been happening when after they logged out of the system.  '
 58,Auditing,'The system shall be able to show a section which displays the last time a user logged in the system and a summary of the activities they did on the system upon logging in. '
@@ -825,9 +825,9 @@ Project ID,Class,Requirement
 60,Functionality,'The system shall allow storage of Emails in different folders as spam and ham emails. '
 60,Performance,'The system shall enable user interaction to move to spam as Blacklisting and move to Ham folder as whitelisting. '
 60,Immunity,'PlutoMail will offer spam protection at server level and eliminates the need to install and update antispam software on each desktop.  '
-60,Performance,"'PlutoMail offer a fast set-up and a high spam detection rate using Bayesian analysis and other methods – no configuration required, very low false positives through its automatic whitelist '"
+60,Performance,"'PlutoMail offer a fast set-up and a high spam detection rate using Bayesian analysis and other methods ï¿½ no configuration required, very low false positives through its automatic whitelist '"
 60,Maintainability,'The system is able to automatically adapt to the email environment to constantly tune and improve spam detection.  '
-60,Performance,"'The system shall enable sorting of spam to users’ junk email folders.  Reporting, mail archiving, monitoring and POP3 downloading. '"
+60,Performance,"'The system shall enable sorting of spam to usersï¿½ junk email folders.  Reporting, mail archiving, monitoring and POP3 downloading. '"
 60,Performance,'The PlutoMail will have scalable speed to meet the response time and performance targets.  '
 60,Performance,'The system shall be able to serve multiple users concurrently without any delay or unrealistic waiting time for a response. '
 60,Performance,'The system shall be efficient to use that it takes less time to accomplish a particular task. '
@@ -842,7 +842,7 @@ Project ID,Class,Requirement
 60,Functionality,'The system shall allow a user to view spam. '
 60,Functionality,'The system shall allow a user to move email to or from spam folder. '
 60,Functionality,'The system shall allow a user to view statistical report of the filter engine and possible sources of trouble over periods. '
-61,Functionality,'The system shall allow doctors to register and create an account and upon registration allow the system to generate the doctors’ public and private keys. '
+61,Functionality,'The system shall allow doctors to register and create an account and upon registration allow the system to generate the doctorsï¿½ public and private keys. '
 61,Performance,'The system shall allow the radiologist to compress the images using optimized lossless compression methods. '
 61,Confidentiality,"'The system shall allow the radiologist to, encrypt and upload the images to the cloud. '"
 61,Integrity,'The system shall enable the radiologist to verify the integrity of stored images through the PoR functionality. '
@@ -859,7 +859,7 @@ Project ID,Class,Requirement
 61,Portability,'The system shall be portable in such a way that it can be unable on different devices with different screen sizes without difficulties. '
 62,Functionality,'The system shall allow Cases Reported to be recommended to the closest police station. '
 62,Auditing,'The system shall allow Analysis of locations prevalent crime using crowd-sourced data and reports data. '
-62,Functionality,"'The system shall allow local Law Enforcement Agencies to track cases, location of reporter, receive crimes reported based on the reporter’s current location. '"
+62,Functionality,"'The system shall allow local Law Enforcement Agencies to track cases, location of reporter, receive crimes reported based on the reporterï¿½s current location. '"
 62,Functionality,'The system shall allow the publishing and viewing of Wanted/Missing Persons. '
 62,Functionality,'The system shall allow the Submission and responding of complaints and alerts. '
 62,Functionality,'The system shall allow users to track case progress on previously reported cases. '
@@ -869,24 +869,24 @@ Project ID,Class,Requirement
 62,Survivability,'The system database must be located in a special secure server and must be backups to other servers directly at specific times to avoid loss and damage of data '
 62,Usability,'The system shall minimize access to the system at the police side to only authorized police officers. '
 62,Usability,"'The system shall allow the user to learn, operate, prepare inputs and interpret outputs through interaction with the software system easily without any complications. '"
-62,Usability,"'The system shall meet user’s needs regarding ease of entry, ease of learning, ease of handling, likability, and possible metrics.  Usability'"
+62,Usability,"'The system shall meet userï¿½s needs regarding ease of entry, ease of learning, ease of handling, likability, and possible metrics.  Usability'"
 62,Availability,"'The system shall be available at all times, meaning the user can access it using a device application which addresses the user concern for how dependable the system is during normal operating times. '"
 62,Availability,"'The system must be considered downtime impact on the business, transport unavailability and minimizing unavailability.'"
 63,IntrusionD,'The system shall allow a user to listen for any port scan on university WIFI network. '
 63,Immunity,'The system shall allow a user to block internet to the computer doing port scanning. '
 63,Functionality,'The system shall allow a user to push warning script to the rogue node.'
 63,Auditing,'The system shall allow a user to check netstat and recent network connections to see if rogue node it a victim of pivoting and if so trace the attacking machine. '
-63,Auditing,'The system shall allow a user to recover unique identifiers of the node which was used to generate the node’s unique ID/fingerprint upon registration when the owner entered/joined the university with it '
+63,Auditing,'The system shall allow a user to recover unique identifiers of the node which was used to generate the nodeï¿½s unique ID/fingerprint upon registration when the owner entered/joined the university with it '
 63,Functionality,'The system shall allow a user to note hostname of rogue node as well as the SSID of the network it is connected to as to know from which section on campus is the attack being done.'
 63,Functionality,'The system shall allow a user to check with students laptop and university PC register and search for device matching the rogue node and corresponding student and student personal details. '
-63,Functionality,'The system shall allow a user to display message on rogue note screen warning the student by name that port scanning is not allowed and this is automatically added to the student’s record if such an offence is repeated more than once. '
+63,Functionality,'The system shall allow a user to display message on rogue note screen warning the student by name that port scanning is not allowed and this is automatically added to the studentï¿½s record if such an offence is repeated more than once. '
 63,Functionality,'The system shall allow a user to generate monthly reports which can be viewed by network admin when necessary.  '
 63,IntrusionD,'The system shall allow background processes to be monitoring for any scan and relaying information to the registry about any unusual activities.'
-63,Performance,'The system shall allow time to fetch student details from the database to be 2 seconds (To be tested during development)’. '
+63,Performance,'The system shall allow time to fetch student details from the database to be 2 seconds (To be tested during development)ï¿½. '
 63,Functionality,'The software will work as long as the server upon which it is installed in running.  There are no time limits to using the software; however it is also possible to stop the software from running should there be need.  '
 63,Immunity,"'The software is a safety-critical one and is used to perform last line of defense protection against attacks, since defects in safety-critical software can lead to serious service disruption or server down time. '"
 63,Performance,'The software depends on the operating system speed and efficiency in its execution.  '
-63,Auditing,'The system’s listening for scanning is done while listening to the OS activities.  '
+63,Auditing,'The systemï¿½s listening for scanning is done while listening to the OS activities.  '
 63,Functionality,"'The system does not continuously interact with the database, it does seek student information from the university database only when the administrator requests.  '"
 63,Functionality,'The capacity to do things right will depend on the monitoring tasks definition.  '
 63,IntrusionD,"'The software will look at port scanning only on the host it will be deployed on, this will devote all the listen to one part of the many policies in a computer. '"
@@ -900,9 +900,9 @@ Project ID,Class,Requirement
 64,Functionality,'The system shall allow buying patterns of the purchases to be analyzed.'
 64,Immunity,'The system shall allow anomalies to be curbed after detection. '
 64,Authentication,'The system allows user re-verification by the usage of AVS and distinct security questions. '
-64,Performance,'The system’s time to react to tolerating the exchange to happen or dismissing it hindering the card and cautioning the head be brief in order to advance an easy to understand framework. '
+64,Performance,'The systemï¿½s time to react to tolerating the exchange to happen or dismissing it hindering the card and cautioning the head be brief in order to advance an easy to understand framework. '
 64,Performance,'The system shall offer high throughput which is the yield in respect to the measure of going through a framework from contribution to yield. '
-64,Performance,'The framework should exhibit a high rate of work handling and that of administrations’ clients.  '
+64,Performance,'The framework should exhibit a high rate of work handling and that of administrationsï¿½ clients.  '
 64,Functionality,"'The system shall enable administration services from login, doing the exchange and in addition client re-verification.  '"
 64,Availability,'The framework ought to be accessible wherever it is required.  At whatever point the clients needs to make a purchase'
 64,Usability,'The system shall provision good quality online services making it easy to use since an up-front user interface will be delivered. '
@@ -916,7 +916,7 @@ Project ID,Class,Requirement
 65,Usability,'The system user interface should be almost self-explanatory. '
 65,Portability,'The system shall be compatible with different desktop platform. '
 66,Functionality,"'The System shall allow creation of users (Administrator, Lecturer, Student) accounts.'"
-66,Functionality,'The System shall be able to allow lecturer to add students’ final marks. '
+66,Functionality,'The System shall be able to allow lecturer to add studentsï¿½ final marks. '
 66,Functionality,'The System shall be able to allow student to view final results and degree class. '
 66,Functionality,'The System shall be able to allow students to view recommended careers for them.'
 66,Usability,'The career recommender should be simple and user friendly. '
@@ -940,14 +940,14 @@ Project ID,Class,Requirement
 69,Functionality,'This system provides ability to register a mother who comes to the Healthcare Centre for the first time. '
 69,Functionality,'The system shall register a new baby and its details linked to the mother. '
 69,Functionality,'The system shall retain records for all babies a mother will have subsequently. '
-69,Functionality,'The system shall monitor a baby’s growth. '
+69,Functionality,'The system shall monitor a babyï¿½s growth. '
 69,Functionality,"'The system shall allow a user to view mother or baby details, to add new information and update records. '"
 69,Functionality,'The system shall allow a user to view the progress of a baby from birth to postnatal visits.'
 69,Functionality,'The system shall allow monitoring of growth and healthcare issues pertaining to a baby and its mother. '
 69,Functionality,"'This system will provide the user with a notification on account information updates, scheduled review dates, disease outbreaks, health practitioners advice and hints on practicing proper baby health care. '"
 69,Functionality,"'The dispatching mechanism will employ sms, blog chats and email'"
 69,Portability,'The system can perform well in the web environments catering for all mothers nationwide without encountering major challenges. '
-69,Availability,'The system in terms of responsiveness is a real time system such that clients can easily access medical records of baby’s at any given point in time. '
+69,Availability,'The system in terms of responsiveness is a real time system such that clients can easily access medical records of babyï¿½s at any given point in time. '
 69,Survivability,"'The system will be used at a national level offering reliability, however, it is hard to balance development time but it provides maturity, fault tolerance and recoverability. '"
 69,Usability,'The system shall be easy to use and user friendly as it is targeted at all mothers both literate and illiterate. '
 69,Performance,'The system is an efficient system that has the best operational performance relieving both nurses and mothers of the time-consuming nature in provision of services in health facilities. '
@@ -967,7 +967,7 @@ Project ID,Class,Requirement
 72,Performance,'The system shall perform a footprint analysis to determine what network services and/or software programs (including versions and patch levels) run on the target.'
 72,IntrusionD,"'The system finds indicators (patterns, attributes) of, or to exploit vulnerabilities known to exist, in the detected services / software versions'"
 72,Functionality,"'The system shall report the findings, after detecting and analysing the vulnerabilities'"
-72,Integrity,"'The system shall verify the SSL certificate on a given web server to make sure it is correctly installed, valid, trusted and doesn't give any errors to any of the users.'"
+72,Integrity,"'The system shall verify the SSL certificate on a given web server to make sure itï¿½is correctly installed, valid, trusted and doesn't give any errors to any of the users.'"
 72,Authentication,'The system connects to web application server and displays the results of the SSL connection including what SSL certificate is installed and whether it gives out the correct intermediate certificates. '
 72,Functionality,'The  system shall report the findings of the SSL certificate phase. '
 72,Confidentiality,"'The system shall create hashes of the passwords and store them upon signing up, once a user types password(s) in plain text format. '"
@@ -998,8 +998,8 @@ Project ID,Class,Requirement
 76,Functionality,'The system shall be able to capture and verify client KYC information. '
 76,Functionality,'The system shall store client KYC information in decentralised database using blockchain. '
 76,Performance,'The system shall perform real time updating and processing of KYC information depending on the changes made to client KYC profile. '
-76,Functionality,'The system shall send requests to clients to allow for consent of use of clients’ KYC information. '
-76,Functionality,'The website shall allow any updating of a client’s KYC information. '
+76,Functionality,'The system shall send requests to clients to allow for consent of use of clientsï¿½ KYC information. '
+76,Functionality,'The website shall allow any updating of a clientï¿½s KYC information. '
 76,Integrity,'The system shall allow changes to be made in an authorised manner '
 76,Authorisation,'The system shall be able to show clients KYC information to authorised users. '
 76,Confidentiality,'The system shall allow secure storage of client information. '
@@ -1011,7 +1011,7 @@ Project ID,Class,Requirement
 77,Functionality,'The system shall allow council to select the location on Google maps or manually enter coordinates of the location of the stand. '
 77,Functionality,'The system shall communicate with the Django API to get the corresponding Ethereum address of the entered National ID. '
 77,Functionality,'The system shall create a transaction sent to the Ethereum protocol. '
-77,Authentication,'The transaction’s digital signatures are validated by the Ethereum protocol.'
+77,Authentication,'The transactionï¿½s digital signatures are validated by the Ethereum protocol.'
 77,Authentication,'The transaction data is validated by the smart contract. '
 77,Functionality,'The system user interface shall communicate with the Blockchain Land Registry smart contract using web3.js. '
 77,Functionality,'The Blockchain Land Registry system smart contract stores the data. '
@@ -1057,13 +1057,13 @@ Project ID,Class,Requirement
 81,Usability,'The system shall provide ease of use.'
 81,Maintainability,'The system shall be clearly documented so as to allow easy maintenance on different environments on which the system will be installed. '
 81,Portability,'The system shall allow be compatible with various platforms. '
-81,Authorisation,'The system shall allow only authorised users to access information and it shall protect users’ data from intruders. '
-82,Authentication,'The system shall allow the student to experience single sign on across the university’s web services. '
+81,Authorisation,'The system shall allow only authorised users to access information and it shall protect usersï¿½ data from intruders. '
+82,Authentication,'The system shall allow the student to experience single sign on across the universityï¿½s web services. '
 82,Authorisation,'The system shall be able to allocate resources to the actual student who has requested the service. '
 82,Usability,'The system shall be easy to use and adopt as students have to login only once. '
 82,Authentication,'The system shall provide a secure student authentication and authorisation by using security SAML tokens containing assertions about a subject for communication between trusted parties. '
 83,Confidentiality,'The system shall use symmetric key encryption AES and asymmetric encryption key on the browser/client side to secure confidentiality of information. '
-83,Performance,'The system shall send notification texts on recipient’s mobile phone. '
+83,Performance,'The system shall send notification texts on recipientï¿½s mobile phone. '
 83,Functionality,'The system shall distribute keys for the RSA digital signature. '
 84,Functionality,'The system shall use RFID scanner to capture the details of every passenger upon boarding the bus. '
 84,Functionality,'The system shall provide a comprehensive web interface to be used to track buses on their routes. '
@@ -1088,7 +1088,7 @@ Project ID,Class,Requirement
 85,Usability,'The system shall be usable and implemented on website and has an interactive interface '
 85,usability,'The system shall have visibly defined flow and buttons that show the different functionalities that the user may require. '
 85,Maintainability,"'The system shall be maintainable as it can be integrated with other systems easily, can be modified or have its components reused on other platforms.'"
-85,Confidentiality,'The system shall ensure confidentiality of vital personal information collected at all the system’s controllers. '
+85,Confidentiality,'The system shall ensure confidentiality of vital personal information collected at all the systemï¿½s controllers. '
 85,confidentiality,'The system shall ensure that personal information is not displayed to the public but is encoded in a QR code '
 85,Integrity,'The system shall provide the integrity service through use of md5 hash values to prevent unauthorised modification '
 85,Availability,'The system shall that the information collected from the previous stage of life should be readily available in any stage and whenever it is required by the rightful user '
@@ -1143,12 +1143,12 @@ Project ID,Class,Requirement
 89,Functionality,'The system shall   notify administrator through SMS. '
 89,Functionality,'The system shall  show warning to users. '
 89,Authorisation,'The system shall  allow administrator to make changes. '
-90,Auditing,'The system shall be introduced in each representative’s mobile device to screen the gadget’s applications and record the activities performed by the gadget. '
+90,Auditing,'The system shall be introduced in each representativeï¿½s mobile device to screen the gadgetï¿½s applications and record the activities performed by the gadget. '
 90,Functionality,"'The system shall analyse the caught activities, check for any approved utilisation and afterwards give a warning to the framework head by transferring the data on the web. '"
 90,Authorisation,'The system shall  allow the framework executive to sign on to the site keeping in mind the end goal to see the warning messages. '
 90,Portability,'The system shall be reliably used on any device that meets the hardware and software requirements defined. '
 90,Portability,'The system shall  be compatible with any Android device. '
-90,Availability,'The system’s QoS shall guarantee its availability at  99.9% uptime.'
+90,Availability,'The systemï¿½s QoS shall guarantee its availability at  99.9% uptime.'
 90,Portability,'The MedX system shall  be developed in Java which is platform independent making it portable. '
 90,Confidentiality,'The system shall  guarantee confidentiality through encryption of stored data with AES. '
 90,Authentication,'The system shall  use QR codes to facilitate access granting. '
@@ -1158,7 +1158,7 @@ Project ID,Class,Requirement
 91,IntrusionD,'The system shall  allow for anomalies to be curbed after detection.'
 91,Authentication,'The system shall perform user re-verification using AVS and distinct security questions. '
 91,Performance,"'The system shall  allow the time to react to tolerating the exchange to happen or dismissing it, hindering the card and cautioning the head to be brief so as to advance an easy to understand framework. '"
-91,Performance,"'The framework shall  exhibit a high rate of work handling and that of administrations’ client from login, during the exchange and client re-verification. '"
+91,Performance,"'The framework shall  exhibit a high rate of work handling and that of administrationsï¿½ client from login, during the exchange and client re-verification. '"
 91,Availability,"'The framework shall  be accessible, wherever and whenever a client needs to make a purchase. '"
 91,Performance,'The framework shall allow for a short information transmission. '
 91,Usability,'The system shall  allow for provision of good quality online services making it easy to use since an interactive GUI will be delivered. '
@@ -1194,13 +1194,13 @@ Project ID,Class,Requirement
 94,Functionality,'The system shall  provide an invisible digital watermark based on Discrete Wavelet Transformation. '
 94,Survivability,"'The system shall  encompass factors of complex computations, robustness and security. '"
 94,Functionality,"'The system shall  ensure the digital watermark agency is able to dispatch agents, collect and report the processed information from the visited hosts within the network. '"
-94,Functionality,'The system shall be able to guide the agent’s movement by allowing the digital watermark agency to take note of the reports and to create a mutual knowledgebase . '
-94,Functionality,'The system’s digital watermark agency shall control the remote network as an administrator and that is where the agents are stored. '
+94,Functionality,'The system shall be able to guide the agentï¿½s movement by allowing the digital watermark agency to take note of the reports and to create a mutual knowledgebase . '
+94,Functionality,'The systemï¿½s digital watermark agency shall control the remote network as an administrator and that is where the agents are stored. '
 94,Functionality,"'The system shall allow that once the agents are being released, they should be able to search the watermarked images from the hosts connected within the network. '"
-94,Functionality,'The system shall require the agents to report the detected images to the agency’s database. '
+94,Functionality,'The system shall require the agents to report the detected images to the agencyï¿½s database. '
 94,Survivability,'The system shall ensure that the watermark as an essential part of the data remains even after signal processing and data manipulation including any malicious activity '
 94,Performance,"'The system shall offer a high performance in the time taken by agents on searching the watermarked image, collecting and processing reports to the agency. '"
-94,Authentication,'The system shall provide authentication by ensuring that the agents compare the watermark keys on the detected images with the keys already stored in the agency’s database. '
+94,Authentication,'The system shall provide authentication by ensuring that the agents compare the watermark keys on the detected images with the keys already stored in the agencyï¿½s database. '
 94,Confidentiality,'The system shall secure the network by SSL to encrypt sensitive data before it travels within a network and decrypt it when it arrives at an agent server. '
 94,Authorisation,'The system shall ensure that the communication of the agents and the agency or server is such that only the registered agents can report to the agency. '
 94,Portability,'The digital watermarking system shall be compatible will all operating systems. '
@@ -1219,7 +1219,7 @@ Project ID,Class,Requirement
 95,Maintainability,'The system shall not require constant updating of its signature as it will be learning on its own and updating its signatures on its own. '
 95,Authorisation,'The system shall allow access to authorised users only. '
 95,Auditing,'The system shall show a panel for logs of the anomalies detected.'
-95,Functionality,'The system’s main screen shall include HELP and Static Analysis Tabs. '
+95,Functionality,'The systemï¿½s main screen shall include HELP and Static Analysis Tabs. '
 95,Portability,'TheIntrusionD system shall be compatible with every platform that can run a JAVA Virtual Machine. '
 96,Authentication,'The system shall allow a member to spontaneously form a group of n signers using group public keys which associate the group members. '
 96,Authorisation,'The system shall allow a user to sign a document on behalf of the group using their secret key. '
@@ -1252,7 +1252,7 @@ Project ID,Class,Requirement
 98,Functionality,'The system shall ensure that the embedding module and scanning tool offer relatively good performance and resource behaviour due to the implemented design.'
 98,Maintainability,'The system shall employ good coding principles like loose coupling of modules for easy maintainance. '
 98,Portability,'The system shall be transferable to another platform with ease. '
-98,Functionality,'The system’s hashing module shall use SHA-2 algorithm . '
+98,Functionality,'The systemï¿½s hashing module shall use SHA-2 algorithm . '
 99,Functionality,"'The system shall have inputs of WAVE audio file, message text, public key and private key. Functionality'"
 99,Functionality,'The system shall process all inputs to produce a WAVE audio file  Functionality'
 99,Confidentiality,'The system shall produce encrypted payload and the message signature. '
@@ -1280,17 +1280,17 @@ Project ID,Class,Requirement
 101,Portability,'The system shall be lightweight '
 101,Maintanability,'The system shall be simple and easy to maintain. '
 101,Portability,' The system executable shall be deployable on any platform. '
-102,Functionality,'The system shall be installed in every employee’s mobile phone device to monitor the device apps and record the activities on the device. '
+102,Functionality,'The system shall be installed in every employeeï¿½s mobile phone device to monitor the device apps and record the activities on the device. '
 102,Functionality,'The system shall analyse the captured activities and then give a notification to the system administrator by uploading the information on the web. '
 102,Authorisation,'The system shall enable the systems administrator to log on to the website in order to view the notification messages. '
 102,Portability,'The system shall be reliable and compatible with any hardware and software compatible with Android devices. '
 103,Immunity,'The system shall filter harmful websites against URLs of known harmful websites. '
 103,Auditing,"'The system shall collect and analyse data that the child is typing and if it captures certain keywords or a continuous sequence of expletive, it should send an alert through text to the parent. '"
 103,Performance,'The system shall prevent installation or removal of any applications. '
-103,Auditing,'The system shall generate and send periodic logs to the parent’s smartphone. '
+103,Auditing,'The system shall generate and send periodic logs to the parentï¿½s smartphone. '
 103,Immunity,'The system shall prevent any media from being sent or received using Bluetooth. '
 103,Auditing,'The system shall be able to generate periodic logs as well as collect and analyse data alerting parents whenever certain keywords are typed. '
-103,Availability,'The system shall be up and running all the time as long as the smartphone is in use to monitor the child’s activities. '
+103,Availability,'The system shall be up and running all the time as long as the smartphone is in use to monitor the childï¿½s activities. '
 103,Performance,'The system shall run in the background and should not affect overall functioning of the smartphone. '
 103,Portability,'The system shall be ease to transfer from one platform to another. '
 103,Maintenability,'The system shall be able to adapt as new URLs and websites are added to those filtered as they emerge. '
@@ -1309,9 +1309,9 @@ Project ID,Class,Requirement
 105,IntrusionD,'The system shall be able to detect and combat both existing and new Malware. '
 105,Functionality,'The system shall have a data collection process allowing for benign and malicious data to be collected and submitted into the system for Malware detection.  '
 105,Auditing,'The system shall have an analyser which will execute the Malware files to inspect the type '
-105,Functionality,'The system’s Malware analyser shall send all the files and their logs to the main server at the end of the analysis process '
-105,Functionality,'The system’s classification process shall classify identified Malware into its respective families. '
-105,Functionality,'The system’s classification process shall generate a report of what the effects of the malware activity during execution. '
-105,Performance,'The system’s classification process shall be developed with dependability in mind so as to produce accurate results through reduced margin of false negatives and false positives. '
+105,Functionality,'The systemï¿½s Malware analyser shall send all the files and their logs to the main server at the end of the analysis process '
+105,Functionality,'The systemï¿½s classification process shall classify identified Malware into its respective families. '
+105,Functionality,'The systemï¿½s classification process shall generate a report of what the effects of the malware activity during execution. '
+105,Performance,'The systemï¿½s classification process shall be developed with dependability in mind so as to produce accurate results through reduced margin of false negatives and false positives. '
 105,Maintainability,'The system shall be maintainable as it is built with three modules with commands that avoid violating coding principles '
 105,Functionality,'The system services shall be accessible offline since it will be a desktop application. '
